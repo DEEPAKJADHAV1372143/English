@@ -2,7 +2,7 @@
 
 
 
-## 🔹 Developer Context Sentences
+## 🔹  Context Sentences
 
 ### **Present (is / am / are)**
 - *“It is a bug.”*  
